@@ -4,7 +4,7 @@ Bu uygulama, Multipl Miyelom hastalarının semptom takibi yapabilmesi ve eğiti
 
 ## 🎥 Proje Tanıtım Videosu
 Uygulamanın kullanımını ve özelliklerini buradan izleyebilirsiniz:
-*https://www.youtube.com/shorts/BOeyC8ZZN4Y🔗
+(https://www.youtube.com/shorts/BOeyC8ZZN4Y)
 
 ## 📦 Uygulama Dosyası (APK)
 Android cihazlar için kurulum dosyası:
